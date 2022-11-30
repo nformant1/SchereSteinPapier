@@ -16,3 +16,11 @@ Crontab:
 * * * * * python3 /home/ubuntu/masto.py
 ```
 
+Beispiel:
+
+![alt text](https://github.com/nformant1/SchereSteinPapier/blob/main/mastodon.png "Beispiel Antwort des Bots")
+
+Icon Quelle:
+https://www.flaticon.com/de/kostenlose-icons/schere 
+
+Schere Icons erstellt von Freepik - Flaticon
